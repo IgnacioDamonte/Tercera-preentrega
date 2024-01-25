@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jonatan Gabriel Perez",
+  "author": "Ignacio Damonte",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",

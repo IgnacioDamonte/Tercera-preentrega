@@ -1,78 +1,99 @@
 [{
   "_id": {
-    "$oid": "657a008a78b7d0136159b64f"
+    "$oid": "6567dcf26780a0ff3f7ccfd9"
   },
   "id": 5,
-  "title": "MOUSE LOGITECH SUPERLIGHT",
-  "description": "TOP MOUSE COMPETITIVE",
-  "price": 350,
+  "title": " Hamburguesa Cuadruple",
+  "description": "Hamburguesa Con Cuatro carnes",
+  "price": 6000,
+  "thumbnails": [
+    "-",
+    "-"
+  ],
   "code": "100PP",
   "stock": 16,
   "status": true,
-  "category": "Electronic Components"
+  "category": "Comida"
 },
 {
   "_id": {
-    "$oid": "657a008a78b7d0136159b64c"
-  },
-  "id": 1,
-  "title": "Computadora Gamer GAMA ALTA",
-  "description": "Computadora de alta gama",
-  "price": 20000,
-  "code": "555BB",
-  "stock": 16,
-  "status": true,
-  "category": "Electronic Components"
-},
-{
-  "_id": {
-    "$oid": "657a008a78b7d0136159b64d"
-  },
-  "id": 3,
-  "title": "Monitor Gamer",
-  "description": "Monitor 1920 x 1080 144HZ",
-  "price": 5000,
-  "code": "555AA",
-  "stock": 10,
-  "status": true,
-  "category": "Electronic Components"
-},
-{
-  "_id": {
-    "$oid": "657a008a78b7d0136159b64e"
-  },
-  "id": 4,
-  "title": "PC OFICINA",
-  "description": "Ideal para oficinas",
-  "price": 40000,
-  "code": "999PP",
-  "stock": 16,
-  "status": true,
-  "category": "Electronic Components"
-},
-{
-  "_id": {
-    "$oid": "657a008a78b7d0136159b650"
+    "$oid": "6567dcf26780a0ff3f7ccfda"
   },
   "id": 6,
-  "title": "MOUSEPAD XXL CONTROL",
-  "description": "Para mas espacio y control",
-  "price": 900,
+  "title": "Hamburguesa con cheddar",
+  "description": "Hamburguesa con queso cheddar",
+  "price": 4500,
+  "thumbnails": [
+    "-",
+    "-"
+  ],
   "code": "AAAA9",
   "stock": 16,
   "status": true,
-  "category": "Electronic Components"
+  "category": "Comida"
 },
 {
   "_id": {
-    "$oid": "657a008a78b7d0136159b651"
+    "$oid": "6567dcf26780a0ff3f7ccfd6"
+  },
+  "id": 1,
+  "title": "Hamburguesa simple",
+  "description": "Hamburguesa de una carne",
+  "price": 20000,
+  "thumbnails": [
+    "-"
+  ],
+  "code": "555BB",
+  "stock": 16,
+  "status": true,
+  "category": "Comida"
+},
+{
+  "_id": {
+    "$oid": "6567dcf26780a0ff3f7ccfd7"
+  },
+  "id": 3,
+  "title": "Hamburguesa doble",
+  "description": "Hamburguesa con doble carne",
+  "price": 5000,
+  "thumbnails": [
+    "-\""
+  ],
+  "code": "555AA",
+  "stock": 10,
+  "status": true,
+  "category": "Comida"
+},
+{
+  "_id": {
+    "$oid": "6567dcf26780a0ff3f7ccfd8"
+  },
+  "id": 4,
+  "title": "Hamburguesa Triple ",
+  "description": "Hamburguesa con triple carne",
+  "price": 5000,
+  "thumbnails": [
+    "-",
+    "-"
+  ],
+  "code": "999PP",
+  "stock": 16,
+  "status": true,
+  "category": "Comida"
+},
+{
+  "_id": {
+    "$oid": "6567dcf26780a0ff3f7ccfdb"
   },
   "id": 7,
-  "title": "PC GAMER GAMA MEDIA",
-  "description": "EXCELENTE PARA REQUISITOS MEDIOS",
+  "title": "Hamburguesa con doble cheddar",
+  "description": "Hamburguesa que tiene dos fetas de cheddar",
   "price": 8000,
+  "thumbnails": [
+    "-"
+  ],
   "code": "BBBB8",
   "stock": 20,
   "status": true,
-  "category": "Electronicos"
+  "category": "Comida"
 }]
